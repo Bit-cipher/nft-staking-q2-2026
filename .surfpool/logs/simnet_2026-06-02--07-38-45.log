@@ -1,0 +1,23 @@
+[2026-06-02--07-38-45 INFO actix_server::builder] starting 5 workers
+[2026-06-02--07-38-45 INFO actix_server::server] Tokio runtime found; starting in existing Tokio runtime
+[2026-06-02--07-38-45 INFO actix_server::server] starting service: "actix-web-service-127.0.0.1:18488", workers: 5, listening on: 127.0.0.1:18488
+[2026-06-02--07-38-46 INFO parity_ws] Listening for new connections on 127.0.0.1:8900.
+[2026-06-02--07-39-09 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:44310.
+[2026-06-02--07-39-15 ERROR litesvm] Program account Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU is not executable.
+[2026-06-02--07-39-15 ERROR litesvm] Program account Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU is not executable.
+[2026-06-02--07-39-15 ERROR litesvm] Program account Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU is not executable.
+[2026-06-02--07-39-15 ERROR litesvm] Program account Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU is not executable.
+[2026-06-02--07-39-15 ERROR litesvm] Program account Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU is not executable.
+[2026-06-02--07-39-15 ERROR litesvm] Program account Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU is not executable.
+[2026-06-02--07-39-15 ERROR litesvm] Program account Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU is not executable.
+[2026-06-02--07-39-15 ERROR litesvm] Program account Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU is not executable.
+[2026-06-02--07-39-16 ERROR litesvm] Program account Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU is not executable.
+[2026-06-02--07-39-16 ERROR litesvm] Program account Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU is not executable.
+[2026-06-02--07-39-17 ERROR litesvm] Program account Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU is not executable.
+[2026-06-02--07-39-17 ERROR litesvm] Program account Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU is not executable.
+[2026-06-02--07-40-54 INFO actix_server::accept] accept thread stopped
+[2026-06-02--07-40-54 INFO actix_server::worker] shutting down idle worker
+[2026-06-02--07-40-54 INFO actix_server::worker] shutting down idle worker
+[2026-06-02--07-40-54 INFO actix_server::worker] shutting down idle worker
+[2026-06-02--07-40-54 INFO actix_server::worker] shutting down idle worker
+[2026-06-02--07-40-54 INFO actix_server::worker] shutting down idle worker

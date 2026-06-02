@@ -10,7 +10,8 @@ use anchor_lang::prelude::*;
 pub use constants::*;
 pub use instructions::*;
 pub use state::*;
-declare_id!("2Lq7xiMfCz3nFRuYVfqHGXhPZbeKSGKDNLr7s4LH9hCM");
+
+declare_id!("Aq1EUwoSAMKKPzHgVKQkbHHDRBQQZLyDrzXUZZZX8zYU");
 
 #[program]
 pub mod nft_staking_q2_2026 {
